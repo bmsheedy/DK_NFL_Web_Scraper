@@ -1,0 +1,4144 @@
+{
+    "NFL_games": [
+        {
+            "game_1": {
+                "team1": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+275",
+                    "spread": "+7.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 40.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-345",
+                    "spread": "-7.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 40.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_2": {
+                "team1": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+245",
+                    "spread": "+6.5",
+                    "spread_odds": "-108",
+                    "o/u": "O 47",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "BUF Bills",
+                    "ml_odds": "-305",
+                    "spread": "-6.5",
+                    "spread_odds": "-112",
+                    "o/u": "U 47",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_3": {
+                "team1": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "+140",
+                    "spread": "+3",
+                    "spread_odds": "-105",
+                    "o/u": "O 49.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-166",
+                    "spread": "-3",
+                    "spread_odds": "-115",
+                    "o/u": "U 49.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_4": {
+                "team1": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-105",
+                    "o/u": "O 48.5",
+                    "ou_odds": "-112"
+                },
+                "team2": {
+                    "name": "IND Colts",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-115",
+                    "o/u": "U 48.5",
+                    "ou_odds": "-108"
+                }
+            }
+        },
+        {
+            "game_5": {
+                "team1": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "-125",
+                    "spread": "-2",
+                    "spread_odds": "-108",
+                    "o/u": "O 41.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "NY Giants",
+                    "ml_odds": "+105",
+                    "spread": "+2",
+                    "spread_odds": "-112",
+                    "o/u": "U 41.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_6": {
+                "team1": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+154",
+                    "spread": "+3.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-112"
+                },
+                "team2": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-185",
+                    "spread": "-3.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-108"
+                }
+            }
+        },
+        {
+            "game_7": {
+                "team1": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "+145",
+                    "spread": "+3.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 41.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-175",
+                    "spread": "-3.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 41.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_8": {
+                "team1": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+164",
+                    "spread": "+4",
+                    "spread_odds": "-112",
+                    "o/u": "O 41.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "NO Saints",
+                    "ml_odds": "-198",
+                    "spread": "-4",
+                    "spread_odds": "-108",
+                    "o/u": "U 41.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_9": {
+                "team1": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+210",
+                    "spread": "+6",
+                    "spread_odds": "-108",
+                    "o/u": "O 41.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "-258",
+                    "spread": "-6",
+                    "spread_odds": "-112",
+                    "o/u": "U 41.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_10": {
+                "team1": {
+                    "name": "LV Raiders",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-112",
+                    "o/u": "O 39.5",
+                    "ou_odds": "-112"
+                },
+                "team2": {
+                    "name": "LA Chargers",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-108",
+                    "o/u": "U 39.5",
+                    "ou_odds": "-108"
+                }
+            }
+        },
+        {
+            "game_11": {
+                "team1": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "+110",
+                    "spread": "+2.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 41",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-130",
+                    "spread": "-2.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 41",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_12": {
+                "team1": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+160",
+                    "spread": "+3.5",
+                    "spread_odds": "-108",
+                    "o/u": "O 42.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "-192",
+                    "spread": "-3.5",
+                    "spread_odds": "-112",
+                    "o/u": "U 42.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_13": {
+                "team1": {
+                    "name": "LA Rams",
+                    "ml_odds": "+170",
+                    "spread": "+4.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 52",
+                    "ou_odds": "-112"
+                },
+                "team2": {
+                    "name": "DET Lions",
+                    "ml_odds": "-205",
+                    "spread": "-4.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 52",
+                    "ou_odds": "-108"
+                }
+            }
+        },
+        {
+            "game_14": {
+                "team1": {
+                    "name": "NY Jets",
+                    "ml_odds": "+180",
+                    "spread": "+4.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-218",
+                    "spread": "-4.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_15": {
+                "team1": {
+                    "name": "BUF Bills",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 51",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 51",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_16": {
+                "team1": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-290",
+                    "spread": "-6.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "+235",
+                    "spread": "+6.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_17": {
+                "team1": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "+240",
+                    "spread": "+6.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 48.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "DET Lions",
+                    "ml_odds": "-298",
+                    "spread": "-6.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 48.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_18": {
+                "team1": {
+                    "name": "NY Jets",
+                    "ml_odds": "-198",
+                    "spread": "-4",
+                    "spread_odds": "-110",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+164",
+                    "spread": "+4",
+                    "spread_odds": "-110",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_19": {
+                "team1": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "-192",
+                    "spread": "-4",
+                    "spread_odds": "-110",
+                    "o/u": "O 41",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+160",
+                    "spread": "+4",
+                    "spread_odds": "-110",
+                    "o/u": "U 41",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_20": {
+                "team1": {
+                    "name": "NO Saints",
+                    "ml_odds": "+210",
+                    "spread": "+6",
+                    "spread_odds": "-110",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-258",
+                    "spread": "-6",
+                    "spread_odds": "-110",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_21": {
+                "team1": {
+                    "name": "NY Giants",
+                    "ml_odds": "+120",
+                    "spread": "+2.5",
+                    "spread_odds": "-105",
+                    "o/u": "O 42",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "-142",
+                    "spread": "-2.5",
+                    "spread_odds": "-115",
+                    "o/u": "U 42",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_22": {
+                "team1": {
+                    "name": "CLE Browns",
+                    "ml_odds": "+110",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "-130",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_23": {
+                "team1": {
+                    "name": "LA Chargers",
+                    "ml_odds": "-170",
+                    "spread": "-3.5",
+                    "spread_odds": "-105",
+                    "o/u": "O 41.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+142",
+                    "spread": "+3.5",
+                    "spread_odds": "-115",
+                    "o/u": "U 41.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_24": {
+                "team1": {
+                    "name": "LA Rams",
+                    "ml_odds": "-135",
+                    "spread": "-2.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 48.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+114",
+                    "spread": "+2.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 48.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_25": {
+                "team1": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "-148",
+                    "spread": "-3",
+                    "spread_odds": "-105",
+                    "o/u": "O 40.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+124",
+                    "spread": "+3",
+                    "spread_odds": "-115",
+                    "o/u": "U 40.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_26": {
+                "team1": {
+                    "name": "CHI Bears",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 47",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 47",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_27": {
+                "team1": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+285",
+                    "spread": "+7.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 42",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Jets",
+                    "ml_odds": "-360",
+                    "spread": "-7.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 42",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_28": {
+                "team1": {
+                    "name": "NY Giants",
+                    "ml_odds": "+225",
+                    "spread": "+6.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 42.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-278",
+                    "spread": "-6.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 42.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_29": {
+                "team1": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-198",
+                    "spread": "-4.5",
+                    "spread_odds": "-108",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "+164",
+                    "spread": "+4.5",
+                    "spread_odds": "-112",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_30": {
+                "team1": {
+                    "name": "CHI Bears",
+                    "ml_odds": "+114",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "O 47",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "IND Colts",
+                    "ml_odds": "-135",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "U 47",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_31": {
+                "team1": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 43",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 43",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_32": {
+                "team1": {
+                    "name": "LA Chargers",
+                    "ml_odds": "+120",
+                    "spread": "+3",
+                    "spread_odds": "-118",
+                    "o/u": "O 42.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "-142",
+                    "spread": "-3",
+                    "spread_odds": "-102",
+                    "o/u": "U 42.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_33": {
+                "team1": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-125",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "O 49",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "+105",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "U 49",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_34": {
+                "team1": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+160",
+                    "spread": "+4",
+                    "spread_odds": "-110",
+                    "o/u": "O 42",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "LV Raiders",
+                    "ml_odds": "-192",
+                    "spread": "-4",
+                    "spread_odds": "-110",
+                    "o/u": "U 42",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_35": {
+                "team1": {
+                    "name": "DET Lions",
+                    "ml_odds": "-198",
+                    "spread": "-4",
+                    "spread_odds": "-110",
+                    "o/u": "O 50",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+164",
+                    "spread": "+4",
+                    "spread_odds": "-110",
+                    "o/u": "U 50",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_36": {
+                "team1": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-110",
+                    "o/u": "O 48",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "LA Rams",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-110",
+                    "o/u": "U 48",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_37": {
+                "team1": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "+185",
+                    "spread": "+5",
+                    "spread_odds": "-110",
+                    "o/u": "O 49",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "BUF Bills",
+                    "ml_odds": "-225",
+                    "spread": "-5",
+                    "spread_odds": "-110",
+                    "o/u": "U 49",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_38": {
+                "team1": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+275",
+                    "spread": "+7",
+                    "spread_odds": "-105",
+                    "o/u": "O 48",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-345",
+                    "spread": "-7",
+                    "spread_odds": "-115",
+                    "o/u": "U 48",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_39": {
+                "team1": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-198",
+                    "spread": "-4",
+                    "spread_odds": "-110",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Giants",
+                    "ml_odds": "+164",
+                    "spread": "+4",
+                    "spread_odds": "-110",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_40": {
+                "team1": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+280",
+                    "spread": "+7.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 42.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Jets",
+                    "ml_odds": "-355",
+                    "spread": "-7.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 42.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_41": {
+                "team1": {
+                    "name": "LA Rams",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 47",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 47",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_42": {
+                "team1": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-290",
+                    "spread": "-6.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+235",
+                    "spread": "+6.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_43": {
+                "team1": {
+                    "name": "NO Saints",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_44": {
+                "team1": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_45": {
+                "team1": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "IND Colts",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_46": {
+                "team1": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+455",
+                    "spread": "+11.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 45",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-625",
+                    "spread": "-11.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 45",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_47": {
+                "team1": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+114",
+                    "spread": "+2.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 45",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "-135",
+                    "spread": "-2.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 45",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_48": {
+                "team1": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-148",
+                    "spread": "-2.5",
+                    "spread_odds": "-115",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "LV Raiders",
+                    "ml_odds": "+124",
+                    "spread": "+2.5",
+                    "spread_odds": "-105",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_49": {
+                "team1": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+230",
+                    "spread": "+6.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-285",
+                    "spread": "-6.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_50": {
+                "team1": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "+205",
+                    "spread": "+5.5",
+                    "spread_odds": "-105",
+                    "o/u": "O 49",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "DET Lions",
+                    "ml_odds": "-250",
+                    "spread": "-5.5",
+                    "spread_odds": "-115",
+                    "o/u": "U 49",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_51": {
+                "team1": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "+136",
+                    "spread": "+3",
+                    "spread_odds": "-105",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-162",
+                    "spread": "-3",
+                    "spread_odds": "-115",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_52": {
+                "team1": {
+                    "name": "NY Jets",
+                    "ml_odds": "-192",
+                    "spread": "-4",
+                    "spread_odds": "-108",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "+160",
+                    "spread": "+4",
+                    "spread_odds": "-112",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_53": {
+                "team1": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-205",
+                    "spread": "-4.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 45",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+170",
+                    "spread": "+4.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 45",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_54": {
+                "team1": {
+                    "name": "BUF Bills",
+                    "ml_odds": "+105",
+                    "spread": "+1.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 48",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-125",
+                    "spread": "-1.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 48",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_55": {
+                "team1": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+185",
+                    "spread": "+5.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 42",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-225",
+                    "spread": "-5.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 42",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_56": {
+                "team1": {
+                    "name": "IND Colts",
+                    "ml_odds": "+114",
+                    "spread": "+2.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "-135",
+                    "spread": "-2.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_57": {
+                "team1": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-162",
+                    "spread": "-3",
+                    "spread_odds": "-115",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+136",
+                    "spread": "+3",
+                    "spread_odds": "-105",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_58": {
+                "team1": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+350",
+                    "spread": "+9.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 47",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-455",
+                    "spread": "-9.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 47",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_59": {
+                "team1": {
+                    "name": "LV Raiders",
+                    "ml_odds": "-108",
+                    "spread": "+1",
+                    "spread_odds": "-115",
+                    "o/u": "O 41",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "-112",
+                    "spread": "-1",
+                    "spread_odds": "-105",
+                    "o/u": "U 41",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_60": {
+                "team1": {
+                    "name": "NY Giants",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 43",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 43",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_61": {
+                "team1": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-125",
+                    "spread": "-1.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 43",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "+105",
+                    "spread": "+1.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 43",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_62": {
+                "team1": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-218",
+                    "spread": "-5",
+                    "spread_odds": "-112",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "+180",
+                    "spread": "+5",
+                    "spread_odds": "-108",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_63": {
+                "team1": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "-112",
+                    "spread": "-1",
+                    "spread_odds": "-105",
+                    "o/u": "O 47",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-108",
+                    "spread": "+1",
+                    "spread_odds": "-115",
+                    "o/u": "U 47",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_64": {
+                "team1": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-245",
+                    "spread": "-5.5",
+                    "spread_odds": "-115",
+                    "o/u": "O 44",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+200",
+                    "spread": "+5.5",
+                    "spread_odds": "-105",
+                    "o/u": "U 44",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_65": {
+                "team1": {
+                    "name": "IND Colts",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_66": {
+                "team1": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 43",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "NO Saints",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 43",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_67": {
+                "team1": {
+                    "name": "LA Chargers",
+                    "ml_odds": "-148",
+                    "spread": "-3",
+                    "spread_odds": "-105",
+                    "o/u": "O 43",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+124",
+                    "spread": "+3",
+                    "spread_odds": "-115",
+                    "o/u": "U 43",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_68": {
+                "team1": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-108",
+                    "o/u": "O 42",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "LV Raiders",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-112",
+                    "o/u": "U 42",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_69": {
+                "team1": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 44",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 44",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_70": {
+                "team1": {
+                    "name": "DET Lions",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "O 48.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "U 48.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_71": {
+                "team1": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-238",
+                    "spread": "-5.5",
+                    "spread_odds": "-115",
+                    "o/u": "O 45",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "NY Giants",
+                    "ml_odds": "+195",
+                    "spread": "+5.5",
+                    "spread_odds": "-105",
+                    "o/u": "U 45",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_72": {
+                "team1": {
+                    "name": "BUF Bills",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Jets",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_73": {
+                "team1": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 42.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NO Saints",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 42.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_74": {
+                "team1": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+220",
+                    "spread": "+6.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 42.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "-270",
+                    "spread": "-6.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 42.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_75": {
+                "team1": {
+                    "name": "DET Lions",
+                    "ml_odds": "-170",
+                    "spread": "-3.5",
+                    "spread_odds": "-102",
+                    "o/u": "O 48",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "+142",
+                    "spread": "+3.5",
+                    "spread_odds": "-118",
+                    "o/u": "U 48",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_76": {
+                "team1": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+285",
+                    "spread": "+7.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-112"
+                },
+                "team2": {
+                    "name": "BUF Bills",
+                    "ml_odds": "-360",
+                    "spread": "-7.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-108"
+                }
+            }
+        },
+        {
+            "game_77": {
+                "team1": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "+145",
+                    "spread": "+3.5",
+                    "spread_odds": "-115",
+                    "o/u": "O 48",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-175",
+                    "spread": "-3.5",
+                    "spread_odds": "-105",
+                    "o/u": "U 48",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_78": {
+                "team1": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-110",
+                    "spread": "-1",
+                    "spread_odds": "-105",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-110",
+                    "spread": "+1",
+                    "spread_odds": "-115",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_79": {
+                "team1": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "O 49",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "IND Colts",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "U 49",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_80": {
+                "team1": {
+                    "name": "LV Raiders",
+                    "ml_odds": "+170",
+                    "spread": "+4.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "LA Rams",
+                    "ml_odds": "-205",
+                    "spread": "-4.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_81": {
+                "team1": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-112",
+                    "o/u": "O 42",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-108",
+                    "o/u": "U 42",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_82": {
+                "team1": {
+                    "name": "NY Jets",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "O 43",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "U 43",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_83": {
+                "team1": {
+                    "name": "LA Chargers",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "O 45",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "U 45",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_84": {
+                "team1": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "LA Rams",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_85": {
+                "team1": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+285",
+                    "spread": "+7.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DET Lions",
+                    "ml_odds": "-360",
+                    "spread": "-7.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_86": {
+                "team1": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-130",
+                    "spread": "-2",
+                    "spread_odds": "-112",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+110",
+                    "spread": "+2",
+                    "spread_odds": "-108",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_87": {
+                "team1": {
+                    "name": "NY Jets",
+                    "ml_odds": "-205",
+                    "spread": "-4.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 41.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+170",
+                    "spread": "+4.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 41.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_88": {
+                "team1": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+210",
+                    "spread": "+6",
+                    "spread_odds": "-110",
+                    "o/u": "O 48.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-258",
+                    "spread": "-6",
+                    "spread_odds": "-110",
+                    "o/u": "U 48.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_89": {
+                "team1": {
+                    "name": "IND Colts",
+                    "ml_odds": "+164",
+                    "spread": "+4",
+                    "spread_odds": "-112",
+                    "o/u": "O 48",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-198",
+                    "spread": "-4",
+                    "spread_odds": "-108",
+                    "o/u": "U 48",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_90": {
+                "team1": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-112",
+                    "o/u": "O 44",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-108",
+                    "o/u": "U 44",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_91": {
+                "team1": {
+                    "name": "BUF Bills",
+                    "ml_odds": "-148",
+                    "spread": "-3",
+                    "spread_odds": "-105",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "+124",
+                    "spread": "+3",
+                    "spread_odds": "-115",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_92": {
+                "team1": {
+                    "name": "NO Saints",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-110",
+                    "o/u": "O 44",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "LA Chargers",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-110",
+                    "o/u": "U 44",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_93": {
+                "team1": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+114",
+                    "spread": "+2.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 41",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "-135",
+                    "spread": "-2.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 41",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_94": {
+                "team1": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "+190",
+                    "spread": "+5.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-230",
+                    "spread": "-5.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_95": {
+                "team1": {
+                    "name": "NY Giants",
+                    "ml_odds": "+154",
+                    "spread": "+4",
+                    "spread_odds": "-112",
+                    "o/u": "O 42.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "-185",
+                    "spread": "-4",
+                    "spread_odds": "-108",
+                    "o/u": "U 42.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_96": {
+                "team1": {
+                    "name": "HOU Texans",
+                    "ml_odds": "+120",
+                    "spread": "+2.5",
+                    "spread_odds": "-102",
+                    "o/u": "O 45",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Jets",
+                    "ml_odds": "-142",
+                    "spread": "-2.5",
+                    "spread_odds": "-118",
+                    "o/u": "U 45",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_97": {
+                "team1": {
+                    "name": "LV Raiders",
+                    "ml_odds": "+260",
+                    "spread": "+7",
+                    "spread_odds": "-108",
+                    "o/u": "O 45",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-325",
+                    "spread": "-7",
+                    "spread_odds": "-112",
+                    "o/u": "U 45",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_98": {
+                "team1": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "O 48",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "U 48",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_99": {
+                "team1": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+124",
+                    "spread": "+3",
+                    "spread_odds": "-115",
+                    "o/u": "O 41",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "TEN Titans",
+                    "ml_odds": "-148",
+                    "spread": "-3",
+                    "spread_odds": "-105",
+                    "o/u": "U 41",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_100": {
+                "team1": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+105",
+                    "spread": "+1.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 42",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Giants",
+                    "ml_odds": "-125",
+                    "spread": "-1.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 42",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_101": {
+                "team1": {
+                    "name": "IND Colts",
+                    "ml_odds": "-108",
+                    "spread": "+1",
+                    "spread_odds": "-115",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "-112",
+                    "spread": "-1",
+                    "spread_odds": "-105",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_102": {
+                "team1": {
+                    "name": "LA Chargers",
+                    "ml_odds": "+140",
+                    "spread": "+3.5",
+                    "spread_odds": "-115",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-166",
+                    "spread": "-3.5",
+                    "spread_odds": "-105",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_103": {
+                "team1": {
+                    "name": "NO Saints",
+                    "ml_odds": "-120",
+                    "spread": "-1",
+                    "spread_odds": "-115",
+                    "o/u": "O 40.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+100",
+                    "spread": "+1",
+                    "spread_odds": "-105",
+                    "o/u": "U 40.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_104": {
+                "team1": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-110",
+                    "o/u": "O 51",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "BUF Bills",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-110",
+                    "o/u": "U 51",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_105": {
+                "team1": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_106": {
+                "team1": {
+                    "name": "LA Rams",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_107": {
+                "team1": {
+                    "name": "NY Giants",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-112",
+                    "o/u": "O 42.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-108",
+                    "o/u": "U 42.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_108": {
+                "team1": {
+                    "name": "BUF Bills",
+                    "ml_odds": "-130",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "IND Colts",
+                    "ml_odds": "+110",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_109": {
+                "team1": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_110": {
+                "team1": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-325",
+                    "spread": "-7",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "+260",
+                    "spread": "+7",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_111": {
+                "team1": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "+142",
+                    "spread": "+3.5",
+                    "spread_odds": "-115",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "-170",
+                    "spread": "-3.5",
+                    "spread_odds": "-105",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_112": {
+                "team1": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "NO Saints",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_113": {
+                "team1": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+190",
+                    "spread": "+5.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 43",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-230",
+                    "spread": "-5.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 43",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_114": {
+                "team1": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+160",
+                    "spread": "+4",
+                    "spread_odds": "-110",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "LA Chargers",
+                    "ml_odds": "-192",
+                    "spread": "-4",
+                    "spread_odds": "-110",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_115": {
+                "team1": {
+                    "name": "NY Jets",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_116": {
+                "team1": {
+                    "name": "DET Lions",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "O 50",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "U 50",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_117": {
+                "team1": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "LA Rams",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_118": {
+                "team1": {
+                    "name": "LV Raiders",
+                    "ml_odds": "+235",
+                    "spread": "+6.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 47",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-290",
+                    "spread": "-6.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 47",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_119": {
+                "team1": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-108",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-112"
+                },
+                "team2": {
+                    "name": "TEN Titans",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-112",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-108"
+                }
+            }
+        },
+        {
+            "game_120": {
+                "team1": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "+164",
+                    "spread": "+4",
+                    "spread_odds": "-112",
+                    "o/u": "O 50",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "DET Lions",
+                    "ml_odds": "-198",
+                    "spread": "-4",
+                    "spread_odds": "-108",
+                    "o/u": "U 50",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_121": {
+                "team1": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-135",
+                    "spread": "-2",
+                    "spread_odds": "-112",
+                    "o/u": "O 42",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "NO Saints",
+                    "ml_odds": "+114",
+                    "spread": "+2",
+                    "spread_odds": "-108",
+                    "o/u": "U 42",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_122": {
+                "team1": {
+                    "name": "LA Rams",
+                    "ml_odds": "-198",
+                    "spread": "-4",
+                    "spread_odds": "-110",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+164",
+                    "spread": "+4",
+                    "spread_odds": "-110",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_123": {
+                "team1": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "+330",
+                    "spread": "+9",
+                    "spread_odds": "-112",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-425",
+                    "spread": "-9",
+                    "spread_odds": "-108",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_124": {
+                "team1": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-170",
+                    "spread": "-3.5",
+                    "spread_odds": "-105",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+142",
+                    "spread": "+3.5",
+                    "spread_odds": "-115",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_125": {
+                "team1": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-130",
+                    "spread": "-2",
+                    "spread_odds": "-112",
+                    "o/u": "O 45",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "LA Chargers",
+                    "ml_odds": "+110",
+                    "spread": "+2",
+                    "spread_odds": "-108",
+                    "o/u": "U 45",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_126": {
+                "team1": {
+                    "name": "IND Colts",
+                    "ml_odds": "+164",
+                    "spread": "+4",
+                    "spread_odds": "-110",
+                    "o/u": "O 46",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Jets",
+                    "ml_odds": "-198",
+                    "spread": "-4",
+                    "spread_odds": "-110",
+                    "o/u": "U 46",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_127": {
+                "team1": {
+                    "name": "HOU Texans",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-110",
+                    "o/u": "O 49",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-110",
+                    "o/u": "U 49",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_128": {
+                "team1": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "+120",
+                    "spread": "+2.5",
+                    "spread_odds": "-105",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-142",
+                    "spread": "-2.5",
+                    "spread_odds": "-115",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_129": {
+                "team1": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+210",
+                    "spread": "+6",
+                    "spread_odds": "-112",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-258",
+                    "spread": "-6",
+                    "spread_odds": "-108",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_130": {
+                "team1": {
+                    "name": "DET Lions",
+                    "ml_odds": "-135",
+                    "spread": "-2.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 48.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "IND Colts",
+                    "ml_odds": "+114",
+                    "spread": "+2.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 48.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_131": {
+                "team1": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "+142",
+                    "spread": "+3.5",
+                    "spread_odds": "-115",
+                    "o/u": "O 45",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-170",
+                    "spread": "-3.5",
+                    "spread_odds": "-105",
+                    "o/u": "U 45",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_132": {
+                "team1": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+295",
+                    "spread": "+7.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 45",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-375",
+                    "spread": "-7.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 45",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_133": {
+                "team1": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-108",
+                    "o/u": "O 44",
+                    "ou_odds": "-112"
+                },
+                "team2": {
+                    "name": "NY Giants",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-112",
+                    "o/u": "U 44",
+                    "ou_odds": "-108"
+                }
+            }
+        },
+        {
+            "game_134": {
+                "team1": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-108",
+                    "o/u": "O 46",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-112",
+                    "o/u": "U 46",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_135": {
+                "team1": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-110",
+                    "o/u": "O 42",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "LV Raiders",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-110",
+                    "o/u": "U 42",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_136": {
+                "team1": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-112",
+                    "o/u": "O 46",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-108",
+                    "o/u": "U 46",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_137": {
+                "team1": {
+                    "name": "CHI Bears",
+                    "ml_odds": "+164",
+                    "spread": "+4",
+                    "spread_odds": "-112",
+                    "o/u": "O 50",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "DET Lions",
+                    "ml_odds": "-198",
+                    "spread": "-4",
+                    "spread_odds": "-108",
+                    "o/u": "U 50",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_138": {
+                "team1": {
+                    "name": "NY Giants",
+                    "ml_odds": "+300",
+                    "spread": "+8",
+                    "spread_odds": "-110",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-380",
+                    "spread": "-8",
+                    "spread_odds": "-110",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_139": {
+                "team1": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-112",
+                    "spread": "+1",
+                    "spread_odds": "-115",
+                    "o/u": "O 47",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "-108",
+                    "spread": "-1",
+                    "spread_odds": "-105",
+                    "o/u": "U 47",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_140": {
+                "team1": {
+                    "name": "IND Colts",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-105",
+                    "o/u": "O 44",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-115",
+                    "o/u": "U 44",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_141": {
+                "team1": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "+180",
+                    "spread": "+4.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Jets",
+                    "ml_odds": "-218",
+                    "spread": "-4.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_142": {
+                "team1": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+114",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "-135",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_143": {
+                "team1": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "+180",
+                    "spread": "+5",
+                    "spread_odds": "-110",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-218",
+                    "spread": "-5",
+                    "spread_odds": "-110",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_144": {
+                "team1": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_145": {
+                "team1": {
+                    "name": "LA Chargers",
+                    "ml_odds": "+114",
+                    "spread": "+2.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-135",
+                    "spread": "-2.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_146": {
+                "team1": {
+                    "name": "LA Rams",
+                    "ml_odds": "-125",
+                    "spread": "-1.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "NO Saints",
+                    "ml_odds": "+105",
+                    "spread": "+1.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_147": {
+                "team1": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "-130",
+                    "spread": "-2",
+                    "spread_odds": "-112",
+                    "o/u": "O 43",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+110",
+                    "spread": "+2",
+                    "spread_odds": "-108",
+                    "o/u": "U 43",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_148": {
+                "team1": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-125",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "O 47",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "BUF Bills",
+                    "ml_odds": "+105",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "U 47",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_149": {
+                "team1": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 43",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 43",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_150": {
+                "team1": {
+                    "name": "NY Jets",
+                    "ml_odds": "+110",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-130",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_151": {
+                "team1": {
+                    "name": "NO Saints",
+                    "ml_odds": "-108",
+                    "spread": "+1",
+                    "spread_odds": "-115",
+                    "o/u": "O 41",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Giants",
+                    "ml_odds": "-112",
+                    "spread": "-1",
+                    "spread_odds": "-105",
+                    "o/u": "U 41",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_152": {
+                "team1": {
+                    "name": "LV Raiders",
+                    "ml_odds": "+124",
+                    "spread": "+3",
+                    "spread_odds": "-115",
+                    "o/u": "O 44",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "-148",
+                    "spread": "-3",
+                    "spread_odds": "-105",
+                    "o/u": "U 44",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_153": {
+                "team1": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-112",
+                    "o/u": "O 45",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-108",
+                    "o/u": "U 45",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_154": {
+                "team1": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "-122",
+                    "spread": "-1.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 45",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+102",
+                    "spread": "+1.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 45",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_155": {
+                "team1": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-110",
+                    "spread": "-1",
+                    "spread_odds": "-105",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "-110",
+                    "spread": "+1",
+                    "spread_odds": "-115",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_156": {
+                "team1": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-112",
+                    "o/u": "O 46",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-108",
+                    "o/u": "U 46",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_157": {
+                "team1": {
+                    "name": "CHI Bears",
+                    "ml_odds": "+190",
+                    "spread": "+5.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-230",
+                    "spread": "-5.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_158": {
+                "team1": {
+                    "name": "BUF Bills",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "O 48",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "LA Rams",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "U 48",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_159": {
+                "team1": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "O 48.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "U 48.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_160": {
+                "team1": {
+                    "name": "LA Rams",
+                    "ml_odds": "+230",
+                    "spread": "+6.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 47",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-285",
+                    "spread": "-6.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 47",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_161": {
+                "team1": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-218",
+                    "spread": "-4.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 46",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+180",
+                    "spread": "+4.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 46",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_162": {
+                "team1": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-285",
+                    "spread": "-6.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 44",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+230",
+                    "spread": "+6.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 44",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_163": {
+                "team1": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-112",
+                    "o/u": "O 42",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "NO Saints",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-108",
+                    "o/u": "U 42",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_164": {
+                "team1": {
+                    "name": "NY Jets",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "O 46",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "U 46",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_165": {
+                "team1": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "+120",
+                    "spread": "+2.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 49.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-142",
+                    "spread": "-2.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 49.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_166": {
+                "team1": {
+                    "name": "BUF Bills",
+                    "ml_odds": "+110",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "O 50.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DET Lions",
+                    "ml_odds": "-130",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "U 50.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_167": {
+                "team1": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-115",
+                    "o/u": "O 42.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "LA Chargers",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-105",
+                    "o/u": "U 42.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_168": {
+                "team1": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 44",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 44",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_169": {
+                "team1": {
+                    "name": "IND Colts",
+                    "ml_odds": "-135",
+                    "spread": "-2.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+114",
+                    "spread": "+2.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_170": {
+                "team1": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-112",
+                    "spread": "-1",
+                    "spread_odds": "-105",
+                    "o/u": "O 46",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "-108",
+                    "spread": "+1",
+                    "spread_odds": "-115",
+                    "o/u": "U 46",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_171": {
+                "team1": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-112",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "LV Raiders",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-108",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_172": {
+                "team1": {
+                    "name": "CLE Browns",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_173": {
+                "team1": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+320",
+                    "spread": "+8.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "BUF Bills",
+                    "ml_odds": "-410",
+                    "spread": "-8.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_174": {
+                "team1": {
+                    "name": "DET Lions",
+                    "ml_odds": "-110",
+                    "spread": "-1",
+                    "spread_odds": "-105",
+                    "o/u": "O 47",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-110",
+                    "spread": "+1",
+                    "spread_odds": "-115",
+                    "o/u": "U 47",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_175": {
+                "team1": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-112",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-108",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_176": {
+                "team1": {
+                    "name": "NY Giants",
+                    "ml_odds": "+170",
+                    "spread": "+4.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-205",
+                    "spread": "-4.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_177": {
+                "team1": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+160",
+                    "spread": "+4",
+                    "spread_odds": "-110",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "IND Colts",
+                    "ml_odds": "-192",
+                    "spread": "-4",
+                    "spread_odds": "-110",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_178": {
+                "team1": {
+                    "name": "LA Rams",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-110",
+                    "o/u": "O 47.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Jets",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-110",
+                    "o/u": "U 47.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_179": {
+                "team1": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+160",
+                    "spread": "+4",
+                    "spread_odds": "-110",
+                    "o/u": "O 43",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "LA Chargers",
+                    "ml_odds": "-192",
+                    "spread": "-4",
+                    "spread_odds": "-110",
+                    "o/u": "U 43",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_180": {
+                "team1": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-112",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-108",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_181": {
+                "team1": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-110",
+                    "o/u": "O 49",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-110",
+                    "o/u": "U 49",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_182": {
+                "team1": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "-112",
+                    "spread": "-1",
+                    "spread_odds": "-105",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "LV Raiders",
+                    "ml_odds": "-108",
+                    "spread": "+1",
+                    "spread_odds": "-115",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_183": {
+                "team1": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "+180",
+                    "spread": "+4.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-218",
+                    "spread": "-4.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_184": {
+                "team1": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CHI Bears",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_185": {
+                "team1": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+180",
+                    "spread": "+5",
+                    "spread_odds": "-112",
+                    "o/u": "O 43",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "-218",
+                    "spread": "-5",
+                    "spread_odds": "-108",
+                    "o/u": "U 43",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_186": {
+                "team1": {
+                    "name": "IND Colts",
+                    "ml_odds": "-125",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "NY Giants",
+                    "ml_odds": "+105",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_187": {
+                "team1": {
+                    "name": "NY Jets",
+                    "ml_odds": "+114",
+                    "spread": "+2.5",
+                    "spread_odds": "-105",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "BUF Bills",
+                    "ml_odds": "-135",
+                    "spread": "-2.5",
+                    "spread_odds": "-115",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_188": {
+                "team1": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+160",
+                    "spread": "+4",
+                    "spread_odds": "-112",
+                    "o/u": "O 46",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "-192",
+                    "spread": "-4",
+                    "spread_odds": "-108",
+                    "o/u": "U 46",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_189": {
+                "team1": {
+                    "name": "LV Raiders",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-115",
+                    "o/u": "O 43",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NO Saints",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-105",
+                    "o/u": "U 43",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_190": {
+                "team1": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-142",
+                    "spread": "-2.5",
+                    "spread_odds": "-115",
+                    "o/u": "O 46",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+120",
+                    "spread": "+2.5",
+                    "spread_odds": "-105",
+                    "o/u": "U 46",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_191": {
+                "team1": {
+                    "name": "LA Chargers",
+                    "ml_odds": "-142",
+                    "spread": "-2.5",
+                    "spread_odds": "-115",
+                    "o/u": "O 41",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+120",
+                    "spread": "+2.5",
+                    "spread_odds": "-105",
+                    "o/u": "U 41",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_192": {
+                "team1": {
+                    "name": "DEN Broncos",
+                    "ml_odds": "+300",
+                    "spread": "+8",
+                    "spread_odds": "-110",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-380",
+                    "spread": "-8",
+                    "spread_odds": "-110",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_193": {
+                "team1": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+215",
+                    "spread": "+6",
+                    "spread_odds": "-110",
+                    "o/u": "O 48",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "LA Rams",
+                    "ml_odds": "-265",
+                    "spread": "-6",
+                    "spread_odds": "-110",
+                    "o/u": "U 48",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_194": {
+                "team1": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "+110",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "CLE Browns",
+                    "ml_odds": "-130",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_195": {
+                "team1": {
+                    "name": "DET Lions",
+                    "ml_odds": "+170",
+                    "spread": "+4.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 49.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-205",
+                    "spread": "-4.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 49.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_196": {
+                "team1": {
+                    "name": "MIN Vikings",
+                    "ml_odds": "+195",
+                    "spread": "+5.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 47",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "DET Lions",
+                    "ml_odds": "-238",
+                    "spread": "-5.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 47",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_197": {
+                "team1": {
+                    "name": "JAX Jaguars",
+                    "ml_odds": "+110",
+                    "spread": "+2",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "IND Colts",
+                    "ml_odds": "-130",
+                    "spread": "-2",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_198": {
+                "team1": {
+                    "name": "CAR Panthers",
+                    "ml_odds": "+225",
+                    "spread": "+6.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 45.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ATL Falcons",
+                    "ml_odds": "-278",
+                    "spread": "-6.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 45.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_199": {
+                "team1": {
+                    "name": "CIN Bengals",
+                    "ml_odds": "-118",
+                    "spread": "-1",
+                    "spread_odds": "-112",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "PIT Steelers",
+                    "ml_odds": "-102",
+                    "spread": "+1",
+                    "spread_odds": "-108",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_200": {
+                "team1": {
+                    "name": "NO Saints",
+                    "ml_odds": "+110",
+                    "spread": "+2.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 43",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "TB Buccaneers",
+                    "ml_odds": "-130",
+                    "spread": "-2.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 43",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_201": {
+                "team1": {
+                    "name": "HOU Texans",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-110",
+                    "o/u": "O 45",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "TEN Titans",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-110",
+                    "o/u": "U 45",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_202": {
+                "team1": {
+                    "name": "BUF Bills",
+                    "ml_odds": "-180",
+                    "spread": "-3.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 44.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NE Patriots",
+                    "ml_odds": "+150",
+                    "spread": "+3.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 44.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_203": {
+                "team1": {
+                    "name": "WAS Commanders",
+                    "ml_odds": "+195",
+                    "spread": "+5.5",
+                    "spread_odds": "-110",
+                    "o/u": "O 46.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "DAL Cowboys",
+                    "ml_odds": "-238",
+                    "spread": "-5.5",
+                    "spread_odds": "-110",
+                    "o/u": "U 46.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_204": {
+                "team1": {
+                    "name": "MIA Dolphins",
+                    "ml_odds": "+130",
+                    "spread": "+3",
+                    "spread_odds": "-110",
+                    "o/u": "O 45",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "NY Jets",
+                    "ml_odds": "-155",
+                    "spread": "-3",
+                    "spread_odds": "-110",
+                    "o/u": "U 45",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_205": {
+                "team1": {
+                    "name": "LA Chargers",
+                    "ml_odds": "-115",
+                    "spread": "-1",
+                    "spread_odds": "-108",
+                    "o/u": "O 43.5",
+                    "ou_odds": "-110"
+                },
+                "team2": {
+                    "name": "LV Raiders",
+                    "ml_odds": "-105",
+                    "spread": "+1",
+                    "spread_odds": "-112",
+                    "o/u": "U 43.5",
+                    "ou_odds": "-110"
+                }
+            }
+        },
+        {
+            "game_206": {
+                "team1": {
+                    "name": "SF 49ers",
+                    "ml_odds": "-198",
+                    "spread": "-4",
+                    "spread_odds": "-112",
+                    "o/u": "O 43",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "ARI Cardinals",
+                    "ml_odds": "+164",
+                    "spread": "+4",
+                    "spread_odds": "-108",
+                    "o/u": "U 43",
+                    "ou_odds": "-112"
+                }
+            }
+        },
+        {
+            "game_207": {
+                "team1": {
+                    "name": "SEA Seahawks",
+                    "ml_odds": "+190",
+                    "spread": "+5.5",
+                    "spread_odds": "-112",
+                    "o/u": "O 47",
+                    "ou_odds": "-108"
+                },
+                "team2": {
+                    "name": "LA Rams",
+                    "ml_odds": "-230",
+                    "spread": "-5.5",
+                    "spread_odds": "-108",
+                    "o/u": "U 47",
+                    "ou_odds": "-112"
+                }
+            }
+        }
+    ]
+}
