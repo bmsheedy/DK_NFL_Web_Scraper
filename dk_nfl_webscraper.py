@@ -1,3 +1,11 @@
+"""
+---DraftKings NFL Web Scraper---
+-----------------------------------------------------------------------------------------------------------------------
+DraftKings Sportsbook web scraper to extract, aggregate, and format NFL game odds into a JSON file using Python’s BeautifulSoup library.
+-----------------------------------------------------------------------------------------------------------------------
+---Created by Brandon Sheedy---
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import json
